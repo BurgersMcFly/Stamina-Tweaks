@@ -27,7 +27,7 @@ If you are out of combat (no enemies within ~6 meters) and your stamina isn't fu
 1. Download and install [BepInExPack Valheim](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/).
 2. Download the mod and drop its .dll file in \BepInEx\plugins.
 
-Credits to the [Valheim Plus team](https://www.nexusmods.com/valheim/mods/4) for their Valheim Plus mod and socastix for their Stamina Overhaul mod as their code helped immensely.
+Credits to the [Valheim Plus team](https://www.nexusmods.com/valheim/mods/4) for their [Valheim Plus](https://www.nexusmods.com/valheim/mods/4) mod and [socastix](https://www.nexusmods.com/valheim/users/56983277) for their [Stamina Overhaul](https://www.nexusmods.com/valheim/mods/69) mod as their code helped immensely.
 
 ## License
 
