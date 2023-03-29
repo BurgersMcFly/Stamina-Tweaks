@@ -24,8 +24,8 @@ If you are out of combat (no enemies within ~6 meters) and your stamina isn't fu
 
 ## Installation
 
-Download and install BepInExPack Valheim.
-Download the mod and drop its .dll file in \BepInEx\plugins.
+1. Download and install BepInExPack Valheim.
+2. Download the mod and drop its .dll file in \BepInEx\plugins.
 
 Credits to the Valheim Plus team for their Valheim Plus mod and socastix for their Stamina Overhaul mod as their code helped immensely.
 
