@@ -4,7 +4,7 @@ Changes stamina usage when out of combat (checks if enemies are within ~6 meters
 
 ## Mod page on Nexus Mods
 
-(https://www.nexusmods.com/valheim/mods/2051)
+https://www.nexusmods.com/valheim/mods/2051
 
 ## Fetaures
 
