@@ -6,7 +6,7 @@ Changes stamina usage when out of combat (checks if enemies are within ~6 meters
 
 (https://www.nexusmods.com/valheim/mods/2051)
 
-##Fetaures
+## Fetaures
 
 Stamina Usage:
 
@@ -22,7 +22,7 @@ If your stamina isn't full doing the above actions would momentarily pause regen
 If you are out of combat (no enemies within ~6 meters) and your stamina isn't full, doing the above actions won't pause regeneration but will instead proc a slower regeneration rate until you stop doing the above actions (like swimming, chopping trees etc.). If you are not doing the above actions the regeneration rate will return to normal. Doesn't affect two-handed axes.
 
 
-##Installation
+## Installation
 
 Download and install BepInExPack Valheim.
 Download the mod and drop its .dll file in \BepInEx\plugins.
